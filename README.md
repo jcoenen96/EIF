@@ -1,0 +1,2 @@
+# EIF
+External Imap Filter
